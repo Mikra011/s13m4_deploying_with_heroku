@@ -1,7 +1,8 @@
 {
     "name": "node-api4-guided",
     "scripts": {
-        "server": "nodemon index.js"
+        "server": "nodemon index.js",
+        "start": "node index.js"
     },
     "repository": {
         "type": "git",
